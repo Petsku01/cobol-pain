@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       COBOL VERSION 2014
+       COBOL VERSION 2014.
        PROGRAM-ID. CybersecurityManagement.
       * Program to manage user login and track security incidents.
       * Compatible with COBOL 2014 (ISO/IEC 1989:2014).
